@@ -2,7 +2,7 @@
 Pod::Spec.new do |spec|
 
  
-  spec.name         = "test"
+  spec.name         = "wsm_test"
   spec.version      = "0.0.1"
   spec.summary      = "A short description of test."
 
