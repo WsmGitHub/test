@@ -10,6 +10,6 @@
 
 @implementation test
 -(void)testMethod{
-    NSLog(@"===>>>>>>>>>>test");
+    NSLog(@"===>>>>>>>>>>test");//
 }
 @end
